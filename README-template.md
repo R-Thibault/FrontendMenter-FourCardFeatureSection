@@ -37,8 +37,8 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/R-Thibault/FrontendMenter-FourCardFeatureSection.git
+- Live Site URL: https://r-thibault.github.io/FrontendMenter-FourCardFeatureSection/
 
 ## My process
 
